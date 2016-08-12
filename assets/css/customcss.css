@@ -1,0 +1,97 @@
+/*
+ * Start Bootstrap - Full (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body,
+html {
+    width: 100%;
+    height: 100%;
+}
+
+/* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
+
+p{
+    font-size: 120%;
+}
+
+.about{
+    background: url('../images/intro-dontcopyme.jpg') no-repeat center center ;
+    background-size: cover;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+}
+
+.intro-message{
+    position: relative;
+    padding-top: 20%;
+    padding-bottom: 20%;
+}
+
+body,
+h1,
+h2 {
+    font-family: "Georgia", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 1000;
+}
+
+.intro-divider {
+    width: 400px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+.intro-message > h1 {
+    margin: 0;
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    font-size: 5em;
+}
+
+.myprofilepic{
+    position: center;
+}
+
+.navhead{
+    font-size: 120%;
+}
+
+.about2{
+    padding: 50px 0;
+    background-color: #f8f8f8;
+}
+
+/*.header-1-p{
+    float: left;
+    width: 200px;
+}*/
+
+footer {
+    padding: 50px 0;
+    background-color: #f8f8f8;
+}
+
+p.copyright {
+    margin: 15px 0 0;
+    font-size: 100%;
+}
+
+.list-inline{
+    font-size: 125%;
+}
+
+.section-heading {
+    margin-bottom: 30px;
+}
+
+.footer-header{
+    float: left;
+    width: 200px;
+    border-top: 3px solid #e7e7e7;
+}
+
+.contact{
+    text-align: center;
+}
